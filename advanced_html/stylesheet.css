@@ -72,6 +72,10 @@ opacityを0.8に指定してください*/
   opacity: 1;
 }
 /*faクラスのmargin-rightを5pxに指定してください*/
+.fa{
+  margin-right:5px;
+}
+
 
 
 
