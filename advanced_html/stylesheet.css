@@ -65,7 +65,13 @@ opacityを0.8に指定してください*/
   color:white;
   display:inline-block;
   opacity:0.8;
+  /*border-radiusを4pxに指定してください*/
+  border-radius:4px;
 }
+.btn:hover{
+  opacity: 1;
+}
+/*faクラスのmargin-rightを5pxに指定してください*/
 
 
 
